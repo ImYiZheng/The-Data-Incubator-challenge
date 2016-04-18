@@ -1,3 +1,3 @@
-# EE569
-Digital Image Processing_Prof.C.-C. (Jay) Kuo  
-Several Projects related to image processing
+# The-Data-Incubator-challenge
+By Yi Zheng, Date: 04/17/2016  
+The codes sovling the problems
